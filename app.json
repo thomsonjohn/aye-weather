@@ -1,0 +1,12 @@
+{
+  "name": "AyeWeather",
+  "displayName": "AyeWeather",
+  "expo": {
+    "name": "AyeWeather",
+    "slug": "AyeWeather",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
